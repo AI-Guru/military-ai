@@ -4,6 +4,21 @@ Let us connect: [LinkedIn](https://www.linkedin.com/in/dr-tristan-behrens-734967
 
 ## Science
 
+### 2024.07.03 On Large Language Models in National Security Applications
+
+[Source](https://arxiv.org/abs/2407.03453)
+
+This article examines the integration of large language models (LLMs) like GPT-4 into national security operations, highlighting both opportunities and challenges. LLMs offer substantial benefits for national security organizations, including automating information processing, enhancing data analysis, and improving decision-making efficiency. When coupled with decision-theoretic principles and Bayesian reasoning, these models can facilitate the transition from data to actionable decisions with reduced manpower requirements.
+
+The US Department of Defense is already implementing LLMs in various applications, such as the USAF's use for wargaming and automatic summarization of intelligence reports. These applications demonstrate how LLMs can streamline operations and support tactical and strategic decision-making processes. The integration of LLMs with probabilistic and statistical methods can provide more robust threat predictions and improve operational readiness through personalized training experiences.
+
+However, significant risks accompany these benefits. The article identifies hallucinations (generating false information), data privacy concerns, and vulnerability to adversarial attacks as critical challenges, particularly in high-stakes environments where information accuracy is crucial. These risks necessitate rigorous safeguards and continuous scrutiny of AI security protocols.
+
+The broader implications extend to international relations and geopolitics, with adversarial nations potentially leveraging LLMs for disinformation campaigns and cyber operations. Despite showing "sparks" of artificial general intelligence, the article argues LLMs are currently best suited for supporting roles rather than leading strategic decisions.
+
+The authors advocate for a cautious, calculated approach to LLM integration, guided by responsible AI frameworks. They emphasize the importance of continued collaboration between defense, academic, and commercial entities to realize benefits while mitigating risks, ultimately enabling national security professionals to establish strategic advantage in an increasingly contested technological landscape.
+
+
 ### 2024.02.01 - COA-GPT: Generative Pre-trained Transformers for Accelerated Course of Action Development in Military Operations 
 
 [Source](https://arxiv.org/abs/2402.01786)
@@ -35,8 +50,22 @@ This policy shift comes after reports that Chinese researchers used Meta's earli
 
 The article notes other AI companies are also engaging with military applications - US Africa Command purchased cloud computing services from Microsoft that include access to OpenAI's tools, and Google DeepMind has a cloud computing contract with the Israeli government.
 
+### 2025.07.10 Department of the Air Force launches NIPRGPT 
 
-### 2025.03.06 - Revealed: Israeli military creating ChatGPT-like tool using vast collection of Palestinian surveillance data
+[Source](https://www.af.mil/News/Article-Display/Article/3800809/department-of-the-air-force-launches-niprgpt/)
+
+The Department of the Air Force has launched NIPRGPT, an experimental AI chatbot that allows personnel to use Generative AI on the Non-classified Internet Protocol Router Network. This CAC-enabled tool is part of the DAF's broader initiative to provide Airmen, Guardians, civilian employees, and contractors with access to AI technology while maintaining appropriate security measures.
+
+NIPRGPT is being offered through the Dark Saber software platform developed at the Air Force Research Laboratory Information Directorate in Rome, New York. It enables users to have human-like conversations for completing various tasks, including drafting correspondence, background papers, and code, all at no additional cost to units or users.
+
+Venice Goodwine, DAF chief information officer, emphasized that now is the time to provide personnel with tools to develop AI skills, while Chandra Donelson, acting chief data and AI officer, noted that "technology is learned by doing" and that insights from users will inform future policy and investment decisions.
+
+The experiment aims to gather data on computational efficiency, resource utilization, and security compliance to understand practical applications and challenges of Generative AI. The platform includes feedback mechanisms to help develop governance policies and guide vendor conversations as the DAF incorporates these tools into its operations.
+
+Alexis Bonnell, AFRL chief information officer, described NIPRGPT as a "critical bridge" while more powerful commercial tools navigate security parameters. CAC holders can register at https://niprgpt.mil, though the system has limited capacity during the experimental phase.
+
+
+### 2024.03.06 - Revealed: Israeli military creating ChatGPT-like tool using vast collection of Palestinian surveillance data
 
 [Source](https://www.theguardian.com/world/2025/mar/06/israel-military-ai-surveillance)
 
