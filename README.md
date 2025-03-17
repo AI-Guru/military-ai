@@ -78,3 +78,15 @@ Development of this system accelerated after October 2023 when the Gaza war bega
 The LLM builds upon existing AI tools used by the IDF such as "The Gospel" and "Lavender," which help identify potential targets, enhancing the military's ability to process massive volumes of intercepted communications. Sources indicate the technology has expanded surveillance capabilities beyond security threats to monitor activists and civilian activities, with AI models reportedly increasing arrests in the West Bank by identifying Palestinians expressing dissent.
 
 Human rights organizations warn these AI systems can amplify biases and produce errors, with critics arguing the model violates Palestinians' privacy rights. While intelligence agencies worldwide are exploring AI capabilities, Israel appears to be taking greater risks in deployment. The technology demonstrates how military organizations are adapting commercial AI advances for surveillance purposes, raising important questions about privacy, surveillance ethics, and the potential for consequential errors in military AI applications.
+
+## Disclaimer
+
+The information presented in this document offers a neutral representation of artificial intelligence applications in military contexts based on publicly available sources. This document does not advocate for or against the use of AI in military operations, nor does it endorse specific AI military technologies, policies, or strategies of any nation.
+
+The summaries provided are intended solely for informational and educational purposes. They present factual descriptions of how various military organizations are exploring, developing, and deploying AI systems, without judgment on the ethical, legal, or humanitarian implications of such deployments.
+
+Readers should note that military applications of AI raise complex questions regarding international humanitarian law, ethics, accountability, privacy rights, and potential risks. Different stakeholders—including military organizations, government bodies, human rights organizations, and civilians—hold varying perspectives on these issues.
+
+This document does not represent the official position of any government, military organization, or technology company mentioned within. Developments in military AI are rapidly evolving, and information may change as technologies advance and new policies emerge.
+
+Readers are encouraged to consult multiple sources and perspectives when forming opinions on these complex matters.
