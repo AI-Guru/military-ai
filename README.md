@@ -1,7 +1,23 @@
-# military-ai
-A collection of resources about AI in the military
+# Artificial Intelligence in the Military - Dr. Tristan Behrens
+
+Let us connect: [LinkedIn](https://www.linkedin.com/in/dr-tristan-behrens-734967a2/)
 
 ## Science
+
+### 2024.02.01 - COA-GPT: Generative Pre-trained Transformers for Accelerated Course of Action Development in Military Operations 
+
+[Source](https://arxiv.org/abs/2402.01786)
+
+This research introduces COA-GPT, an innovative algorithm that uses Large Language Models (LLMs) to generate military Courses of Action (COAs) rapidly and efficiently. The system addresses the traditionally time-consuming nature of military planning by incorporating military doctrine and expertise into LLMs through in-context learning.
+
+COA-GPT allows commanders to input mission information in both text and image formats and quickly receive strategically aligned action plans. A key advantage is that it produces initial COAs within seconds while enabling real-time refinement based on commander feedback.
+
+The study evaluated COA-GPT in a militarized version of StarCraft II, comparing it against reinforcement learning algorithms. Results demonstrated that COA-GPT generated more strategically sound plans more quickly than alternative approaches. The system showed superior performance in developing COAs aligned with commander intent and exhibited enhanced adaptability when incorporating human feedback.
+
+Unlike other approaches, COA-GPT doesn't require extensive pre-training, making it suitable for rapid deployment across diverse military scenarios. Its ability to quickly adapt and update plans during missions represents a potentially transformative advancement for military command and control operations, particularly for addressing planning discrepancies and capitalizing on emerging opportunities.
+
+The research concludes that COA-GPT could reshape military planning and decision-making for increasingly complex and dynamic future battlefields, facilitating faster and more agile command decisions while maintaining strategic advantage in modern warfare contexts.
+
 
 ## Media
 
