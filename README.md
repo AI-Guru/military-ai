@@ -1,5 +1,7 @@
 # Artificial Intelligence in the Military - Dr. Tristan Behrens
 
+![Military AI](militaryai.png)
+
 Let us connect: [LinkedIn](https://www.linkedin.com/in/dr-tristan-behrens-734967a2/)
 
 ## Science
